@@ -20,3 +20,12 @@ Dr. Judy hoped to use the metadata dump to perform the following:
 She felt that by understanding which patients were most likely to fail to show up, the hospital would be able to take preventative steps such as the following:
 • Confirmations on a regular basis and send out appointment reminders and
 • Adjust the number of physicians and hospital employees in accordance with the current need.
+
+# Machine Learning models:
+Here we have done the machine learning algorithm that are the Decision tree, Stochastic Gradient Descent and Gradient Booster, After this we evaluate it over the test data and compare their results to select the best model for this problem. Here are the results of the models.
+Here we have done the machine learning algorithm that are the Decision tree, Stochastic Gradient Descent and Gradient Booster, After this we evaluate it over the test data and compare their results to select the best model for this problem. Here are the results of the models.
+
+![image_2023_02_28T09_30_08_069Z](https://user-images.githubusercontent.com/68701684/221811282-4a49ebe5-1d81-41f8-b65b-305937a5be79.png)
+
+![image_2023_02_28T09_30_29_285Z](https://user-images.githubusercontent.com/68701684/221811313-9bf21027-fe5b-4bad-b76c-b13accee01c8.png)
+
